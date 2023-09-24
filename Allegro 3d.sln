@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Allegro 3d", "Allegro 3d\Allegro 3d.vcxproj", "{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Debug|x64.ActiveCfg = Debug|x64
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Debug|x64.Build.0 = Debug|x64
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Debug|x86.Build.0 = Debug|Win32
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Release|x64.ActiveCfg = Release|x64
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Release|x64.Build.0 = Release|x64
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Release|x86.ActiveCfg = Release|Win32
+		{03A707C2-768A-4F7C-BD15-BC0D4B8CFC3A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D6B8AF-ACAD-4365-BEE8-681AEE9054D4}
+	EndGlobalSection
+EndGlobal
